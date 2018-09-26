@@ -14,10 +14,11 @@ lightBlue   = '#87d7ff'; // blue
 lightMagenta= '#d7afff'; // pink
 lightCyan   = '#87ffff'; // cyan
 lightWhite  = '#808080'; // white
-asphalt	    = '#1e1c31'; // asphalt background
+asphalt     = '#1e1c31'; // asphalt background
+cloudes     = '#cbe3e7': //clouds cursor
 
 t.prefs_.set('color-palette-overrides',
-		                 [ black , red     , green  , yellow,
+		                 [ clouds , red     , green  , yellow,
 				                   blue     , magenta , cyan   , white,
 						                     lightBlack   , lightRed  , lightGreen , lightYellow,
 								                       lightBlue    , lightMagenta  , lightCyan  , lightWhite ]);
