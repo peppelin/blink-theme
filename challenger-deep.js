@@ -14,6 +14,7 @@ lightBlue   = '#87d7ff'; // blue
 lightMagenta= '#d7afff'; // pink
 lightCyan   = '#87ffff'; // cyan
 lightWhite  = '#808080'; // white
+asphalt	    = '#1e1c31'; // asphalt background
 
 t.prefs_.set('color-palette-overrides',
 		                 [ black , red     , green  , yellow,
@@ -23,4 +24,4 @@ t.prefs_.set('color-palette-overrides',
 
 t.prefs_.set('cursor-color', 'rgba(0, 0, 0, 0.5)');
 t.prefs_.set('foreground-color', '#000000');
-t.prefs_.set('background-color', white);
+t.prefs_.set('background-color', asphalt);
