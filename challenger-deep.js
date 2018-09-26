@@ -15,7 +15,7 @@ lightMagenta= '#d7afff'; // pink
 lightCyan   = '#87ffff'; // cyan
 lightWhite  = '#808080'; // white
 asphalt     = '#1e1c31'; // asphalt background
-cloudes     = '#cbe3e7': //clouds cursor
+clouds     = '#cbe3e7': //clouds cursor
 
 t.prefs_.set('color-palette-overrides',
 		                 [ clouds , red     , green  , yellow,
