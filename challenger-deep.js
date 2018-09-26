@@ -1,5 +1,4 @@
-//black       = '#100e23';
-black       = '#cbe3e7';
+black       = '#100e23';
 red         = '#ff8080'; // red
 green       = '#95ffa4'; // green
 yellow      = '#ffe9aa'; // yellow
@@ -15,8 +14,7 @@ lightBlue   = '#87d7ff'; // blue
 lightMagenta= '#d7afff'; // pink
 lightCyan   = '#87ffff'; // cyan
 lightWhite  = '#808080'; // white
-asphalt     = '#1e1c31'; // asphalt background
-clouds     = '#cbe3e7': //clouds cursor
+
 
 t.prefs_.set('color-palette-overrides',
 		                 [ black , red     , green  , yellow,
