@@ -17,11 +17,11 @@ lightWhite  = '#808080'; // white
 
 
 t.prefs_.set('color-palette-overrides',
-		                 [ black , red     , green  , yellow,
-				                   blue     , magenta , cyan   , white,
-						                     lightBlack   , lightRed  , lightGreen , lightYellow,
-								                       lightBlue    , lightMagenta  , lightCyan  , lightWhite ]);
+		[ "#cbe3e7" , red     , green  , yellow,
+		blue     , magenta , cyan   , white,
+		lightBlack   , lightRed  , lightGreen , lightYellow,
+		lightBlue    , lightMagenta  , lightCyan  , lightWhite ]);
 
 t.prefs_.set('cursor-color', 'rgba(203,227,231,0.5)');
 t.prefs_.set('foreground-color', '#000000');
-t.prefs_.set('background-color', '#1e1c31');
+t.prefs_.set('background-color', '#565575');
