@@ -1,4 +1,4 @@
-black       = '#100e23';
+black       = '#565575';
 red         = '#ff8080'; // red
 green       = '#95ffa4'; // green
 yellow      = '#ffe9aa'; // yellow
@@ -17,11 +17,11 @@ lightWhite  = '#808080'; // white
 
 
 t.prefs_.set('color-palette-overrides',
-		[ "#cbe3e7" , red     , green  , yellow,
+		[ black , red     , green  , yellow,
 		blue     , magenta , cyan   , white,
 		lightBlack   , lightRed  , lightGreen , lightYellow,
 		lightBlue    , lightMagenta  , lightCyan  , lightWhite ]);
 
-t.prefs_.set('cursor-color', 'rgba(203,227,231,0.5)');
-t.prefs_.set('foreground-color', '#000000');
-t.prefs_.set('background-color', '#565575');
+t.prefs_.set('cursor-color', 'rgba(251, 252, 252, 1)');
+t.prefs_.set('foreground-color', '#cbe3e7');
+t.prefs_.set('background-color', '#1b182c');
